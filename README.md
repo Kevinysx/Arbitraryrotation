@@ -1,0 +1,2 @@
+# Arbitraryrotation
+用cocos2dx点击任意点进行旋转
